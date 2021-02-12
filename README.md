@@ -1,5 +1,4 @@
 # Web-Scrapping-Basic
-=====================
 
 ### 1_html.html
 html 문법 간단하게 익히기
