@@ -32,3 +32,9 @@ BeautifulSoup 사용해서 네이버 웹툰 웹 스크래핑하기
 
 ### 11_daum_movies.py
 다음에 역대관객순위 2015~2019년도 영화 스크래핑
+
+### 12_csv_stock.py
+네이버 금융 페이지의 데이터를 csv파일로 저장하기
+
+### 13_selenium.py
+selenium을 이용해 네이버에 로그인하기
